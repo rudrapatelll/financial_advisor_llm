@@ -42,6 +42,6 @@ These technologies are instrumental in realizing the 3-pipeline architecture and
 **Rudra Patel**
 AI Automation Engineer
 Email: patel.rudra@ufl.edu
-LinkedIn: https://www.linkedin.com/in/rudra-patel
+LinkedIn: https://www.linkedin.com/in/rudrapatell26/
 
 Rudra is an AI Automation Engineer with over 2 years of professional experience specializing in Python, SQL, and deep learning frameworks including PyTorch and TensorFlow. This repository is maintained as part of an ongoing focus on LLMOps and the deployment of real-time AI systems.
